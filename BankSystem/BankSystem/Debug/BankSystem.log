@@ -1,0 +1,30 @@
+﻿  Admin.cpp
+D:\Programming\Projects\Stage\BankSystem\BankSystem\Employee.h(39,27): warning C4018: '<': signed/unsigned mismatch
+D:\Programming\Projects\Stage\BankSystem\BankSystem\Employee.h(49,27): warning C4018: '<': signed/unsigned mismatch
+D:\Programming\Projects\Stage\BankSystem\BankSystem\Admin.h(24,27): warning C4018: '<': signed/unsigned mismatch
+D:\Programming\Projects\Stage\BankSystem\BankSystem\Admin.h(34,27): warning C4018: '<': signed/unsigned mismatch
+  BankSystem.cpp
+D:\Programming\Projects\Stage\BankSystem\BankSystem\Employee.h(39,27): warning C4018: '<': signed/unsigned mismatch
+D:\Programming\Projects\Stage\BankSystem\BankSystem\Employee.h(49,27): warning C4018: '<': signed/unsigned mismatch
+D:\Programming\Projects\Stage\BankSystem\BankSystem\Admin.h(24,27): warning C4018: '<': signed/unsigned mismatch
+D:\Programming\Projects\Stage\BankSystem\BankSystem\Admin.h(34,27): warning C4018: '<': signed/unsigned mismatch
+  DataSourceInterface.cpp
+D:\Programming\Projects\Stage\BankSystem\BankSystem\Employee.h(39,27): warning C4018: '<': signed/unsigned mismatch
+D:\Programming\Projects\Stage\BankSystem\BankSystem\Employee.h(49,27): warning C4018: '<': signed/unsigned mismatch
+D:\Programming\Projects\Stage\BankSystem\BankSystem\Admin.h(24,27): warning C4018: '<': signed/unsigned mismatch
+D:\Programming\Projects\Stage\BankSystem\BankSystem\Admin.h(34,27): warning C4018: '<': signed/unsigned mismatch
+  Employee.cpp
+D:\Programming\Projects\Stage\BankSystem\BankSystem\Employee.h(39,27): warning C4018: '<': signed/unsigned mismatch
+D:\Programming\Projects\Stage\BankSystem\BankSystem\Employee.h(49,27): warning C4018: '<': signed/unsigned mismatch
+  FileManager.cpp
+D:\Programming\Projects\Stage\BankSystem\BankSystem\Employee.h(39,27): warning C4018: '<': signed/unsigned mismatch
+D:\Programming\Projects\Stage\BankSystem\BankSystem\Employee.h(49,27): warning C4018: '<': signed/unsigned mismatch
+D:\Programming\Projects\Stage\BankSystem\BankSystem\Admin.h(24,27): warning C4018: '<': signed/unsigned mismatch
+D:\Programming\Projects\Stage\BankSystem\BankSystem\Admin.h(34,27): warning C4018: '<': signed/unsigned mismatch
+  Parser.cpp
+D:\Programming\Projects\Stage\BankSystem\BankSystem\Employee.h(39,27): warning C4018: '<': signed/unsigned mismatch
+D:\Programming\Projects\Stage\BankSystem\BankSystem\Employee.h(49,27): warning C4018: '<': signed/unsigned mismatch
+D:\Programming\Projects\Stage\BankSystem\BankSystem\Admin.h(24,27): warning C4018: '<': signed/unsigned mismatch
+D:\Programming\Projects\Stage\BankSystem\BankSystem\Admin.h(34,27): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  BankSystem.vcxproj -> D:\Programming\Projects\Stage\BankSystem\Debug\BankSystem.exe
